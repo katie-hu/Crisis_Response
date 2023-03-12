@@ -8,7 +8,7 @@
 ### Team Members
 - [Bryan Flores](https://github.com/giantmagellan)
 - [Katie Hu](https://github.com/katie-hu)
-- [Michael Nguyen]
+- [Michael Nguyen](https://github.com/mycunguyen)
 
 
 #### Company Name:
