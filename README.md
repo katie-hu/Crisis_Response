@@ -17,4 +17,4 @@
 
 
 #### Data Source Credits
-We'd like to thank the City of San Diego for having an open data portal that allowed us the data to create this project.
+Thank you to the City of San Diego that provided the open data platform for the sources used for this project.
