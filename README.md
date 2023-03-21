@@ -1,4 +1,4 @@
-![GitHub contributors](https://img.shields.io/github/contributors/katie-hu/Crisis_Response)
+#![GitHub contributors](https://img.shields.io/github/contributors/katie-hu/Crisis_Response)
 
 # Welcome to the MS-ADS508 Cloud Computing: Team 1 Home Page!
 
