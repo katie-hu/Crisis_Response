@@ -1,0 +1,2 @@
+hyperopt==0.2.7
+xgboost==1.7.5

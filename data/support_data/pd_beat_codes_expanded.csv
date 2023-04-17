@@ -1,0 +1,126 @@
+﻿beat,neighborhood,zipcode,region,region_id
+111,Clairemont Mesa East,92117,North Central,3
+112,Clairemont Mesa West,92111,North Central,3
+113,Bay Ho,92117,North Central,3
+114,North Clairemont,92117,North Central,3
+115,University City,92122,North Central,3
+116,Bay Park,92117,North Central,3
+121,Mission Beach,92109,North Central,3
+122,Pacific Beach,92109,North Central,3
+123,Mission Bay Park,92117,North Central,3
+124,La Jolla,92037,North Central,3
+126,Torrey Pines,92037,North Central,3
+231,Sabre Springs,92128,North Inland,2
+232,Carmel Mountain,92130,North Central,3
+233,Rancho Penasquitos,92129,North Inland,2
+234,Rancho Bernardo,92129,North Inland,2
+235,San Pasqual,92027,North Inland,2
+241,Scripps Ranch,92131,North Central,3
+242,Mira Mesa,92126,North Central,3
+243,Miramar,92145,North Central,3
+245,Rancho Encantada,92131,North Central,3
+246,Miramar Ranch North,92131,North Central,3
+311,Serra Mesa,92123,North Central,3
+312,Tierrasanta,92124,North Central,3
+313,Kearny Mesa,92111,North Central,3
+314,Birdland,92123,North Central,3
+315,Mission Valley East,92108,North Central,3
+316,Qualcomm,92108,North Central,3
+321,Grantville,92120,North Central,3
+322,Allied Gardens,92120,North Central,3
+323,Del Cerro,92120,North Central,3
+324,Lake Murray,92119,North Central,3
+325,San Carlos,92119,North Central,3
+326,College West,92115,Central,5
+327,College East,92115,Central,5
+431,Emerald Hills,92114,Central,5
+432,Valencia Park,92114,Central,5
+433,Encanto,92114,Central,5
+434,Jamacha/Lomita,92114,Central,5
+435,Broadway Heights,92114,Central,5
+436,Skyline,92114,Central,5
+437,Bay Terraces,92139,Central,5
+438,Paradise Hills,92139,Central,5
+439,Alta Vista,92114,Central,5
+441,Mountain View,92113,Central,5
+442,Southcrest,92113,Central,5
+443,Shelltown,92113,Central,5
+444,Mt. Hope,92102,Central,5
+445,Chollas View,92102,Central,5
+446,Lincoln Park,92113,Central,5
+447,Ridgeview/Webster,92102,Central,5
+451,Oak Park,92105,Central,5
+452,O'Farrell,92114,Central,5
+511,Barrio Logan,92113,Central,5
+512,Logan Heights,92113,Central,5
+514,Sherman Heights,92102,Central,5
+515,Grant Hill,92102,Central,5
+516,Stockton,92102,Central,5
+517,Golden Hill,92102,Central,5
+518,South Park,92105,Central,5
+521,East Village,92101,Central,5
+522,Marina,92101,Central,5
+523,Gaslamp,92101,Central,5
+524,Core-Columbia,92101,Central,5
+525,Horton Plaza,92101,Central,5
+526,Cortez,92101,Central,5
+527,Harborview,92101,Central,5
+528,Little Italy,92101,Central,5
+529,Park West,92101,Central,5
+531,Balboa Park,92101,Central,5
+541,Petco Park,92101,Central,5
+611,Midway District,92199,North Central,3
+612,Loma Portal,92106,North Central,3
+613,Point Loma Heights,92106,North Central,3
+614,Ocean Beach,92107,North Central,3
+615,Roseville/Fleet Ridge,92106,North Central,3
+616,La Playa,92106,North Central,3
+617,Wooded Area,92106,North Central,3
+618,Sunset Cliffs,92107,North Central,3
+621,Linda Vista,92111,North Central,3
+622,Morena,92110,North Central,3
+623,Mission Valley West,92108,North Central,3
+624,University Heights,92116,Central,5
+625,Old Town,92110,North Central,3
+626,Mission Hills,92103,Central,5
+627,Hillcrest,92103,Central,5
+628,Midtown,92103,Central,5
+711,Tijuana River Valley,92154,South,6
+712,San Ysidro,92173,South,6
+713,Otay Mesa,92154,South,6
+714,Border,92154,South,6
+721,Egger Highlands,92154,South,6
+722,Nestor,92154,South,6
+723,Otay Mesa West,92154,South,6
+724,Palm City,92154,South,6
+725,Ocean Crest,92154,South,6
+811,Normal Heights,92116,Central,5
+812,Burlingame,92104,Central,5
+813,North Park,92104,Central,5
+814,Adams North,92116,Central,5
+821,Rolando,92115,Central,5
+822,El Cerrito,92115,Central,5
+823,Redwood Village,92105,Central,5
+824,Talmadge,92115,Central,5
+825,Kensington,92116,Central,5
+826,Colina del Sol,92115,Central,5
+827,Chollas Creek,92105,Central,5
+828,Fox Canyon,92105,Central,5
+829,Islenair,92105,Central,5
+831,Teralta East,92105,Central,5
+832,Teralta West,92105,Central,5
+833,Fairmount Village,92105,Central,5
+834,Castle,91911,South,6
+835,Azalea/Hollywood Park,92105,Central,5
+836,Swan Canyon,92105,Central,5
+837,Fairmount Park,92105,Central,5
+838,Corridor,92104,Central,5
+839,Cherokee Point,92105,Central,5
+841,Rolando Park,92115,Central,5
+931,Sorrento Valley,92121,North Central,3
+932,Torrey Preserve,92121,North Central,3
+933,Del Mar Heights,92014,North Coastal,1
+934,Carmel Valley,92130,North Central,3
+935,North City,92067,North Coastal,1
+936,Torrey Highlands,92130,North Central,3
+937,Black Mountain Ranch,92127,North Inland,2
